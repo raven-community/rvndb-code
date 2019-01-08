@@ -1,0 +1,21 @@
+{
+  "name": "rvndb-code",
+  "version": "0.0.6",
+  "description": "encoding handler for rvndb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-spies": "^1.0.0",
+    "deep-diff": "^1.0.2",
+    "mocha": "^5.2.0",
+    "rewire": "^4.0.1"
+  },
+  "dependencies": {
+    "traverse": "^0.6.6"
+  }
+}
