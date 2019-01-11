@@ -1,8 +1,12 @@
 {
   "name": "rvndb-code",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "encoding handler for rvndb",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raven-community/rvndb-code.git"
+  },
   "scripts": {
     "test": "mocha --recursive"
   },
